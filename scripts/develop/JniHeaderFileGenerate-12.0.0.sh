@@ -11,3 +11,5 @@ headerFileDir=$rootDir/jcudax-natives-$version/src/main/c
 
 cd $workDir
 javah -d $headerFileDir org.dromara.jcudax.JCudax
+
+# 898f92

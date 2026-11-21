@@ -21,3 +21,5 @@ public class JCudax {
 
 	public static native void matrixSoftMaxPdFp32(float[] qkt, float[] errorMatrix, float[] grMatrix, int x, int y, float wordVectorDimension);
 }
+
+// f8a484

@@ -27,3 +27,5 @@ JNIEXPORT void JNICALL Java_org_dromara_jcudax_JCudax_matrixSoftMaxPdFp32
 }
 #endif
 #endif
+
+// 714a25

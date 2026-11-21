@@ -167,3 +167,4 @@ extern "C" {
         env->ReleaseFloatArrayElements(j_grMatrix, h_grMatrix, 0);
     }
 }
+
